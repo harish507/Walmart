@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:globalemployee xmlns:tns="http://www.example.org/Employee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Employee ../../../XMLExamples/Employee.xsd ">
+  <tns:firstname>tns:harish</tns:firstname>
+  <tns:lastname>tns:hari</tns:lastname>
+  <tns:nickname>tns:ha</tns:nickname>
+  <tns:marks>5</tns:marks>
+</tns:globalemployee>
